@@ -46,9 +46,9 @@ Atualmente me aventurando em **Go** por conta própria — porque aprender além
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [🎮 Minecraft Course Store](#) | Site de vendas de cursos — projeto escolar completo com front e back | HTML, CSS, JS, PHP, MySQL |
-| [🖩 Calculadora Tkinter](#) | Calculadora desktop em desenvolvimento | Python, Tkinter |
-| [🌐 Portfólio Pessoal](#) | Meu portfólio em construção | HTML, CSS, JS/TS |
+| [🎮 Minecraft Course Store](#) | Site de vendas de cursos — projeto escolar completo com front e back | HTML, CSS, JS |
+| [🖩 Calculadora Tkinter](https://github.com/gabssil43/calculadora/) | Calculadora desktop em desenvolvimento | Python, Tkinter |
+| [🌐 Portfólio Pessoal](#) | Meu portfólio em construção | HTML, CSS |
 
 > 🔗 *Os links serão atualizados conforme os repositórios forem publicados!*
 
