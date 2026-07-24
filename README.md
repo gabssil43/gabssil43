@@ -1,12 +1,12 @@
 <div align="center">
 
-# Olá, eu sou a Gabriela! 👋
+# Olá, eu sou a Gabriela! 
 
 **Desenvolvedora Fullstack em Formação**
 
 Estudante do último ano do ensino médio técnico em Desenvolvimento de Sistemas.
-Apaixonada por tecnologia, com foco no front-end e sempre buscando crescer no back-end.
-Atualmente me aventurando em **Go** por conta própria — porque aprender além da grade é o que separa quem gosta de quem ama.
+Interessada por tecnologia, com foco no front-end e buscando crescer no back-end.
+Atualmente aprendendo em **Go** por conta própria.
 
 </div>
 
@@ -36,7 +36,7 @@ Atualmente me aventurando em **Go** por conta própria — porque aprender além
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Estudando por conta própria 🚀**
+**Estudando por conta própria**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -58,25 +58,24 @@ Atualmente me aventurando em **Go** por conta própria — porque aprender além
 
 <div align="center">
 
-![Gabriela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Gabriela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabssil43&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabssil43&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
 
 ---
 
-## 🌱 Sobre mim
+## Sobre mim
 
-- 📚 Sempre aprendendo — dentro e fora da sala de aula
-- 💙 Apaixonada por front-end, mas com o coração em Go
-- 🎯 Em busca de evoluir como desenvolvedora fullstack
-- 🔨 Atualmente trabalhando em: calculadora com Tkinter e meu site portfólio
+-  Sempre aprendendo — dentro e fora da sala de aula
+-  Apaixonada por Golang
+-  Em busca de evoluir como desenvolvedora fullstack
+-  Atualmente trabalhando: calculadora com Tkinter e meu site portfólio
 
 ---
 
 <div align="center">
 
-*"Qualquer um pode escrever código que um computador entende. Bons programadores escrevem código que humanos entendem."* — Martin Fowler
 
 </div>
