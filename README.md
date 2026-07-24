@@ -1,81 +1,94 @@
 <div align="center">
 
-# Olá, eu sou a Gabriela! 
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyODAiIHZpZXdCb3g9IjAgMCAxMjAwIDI4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIyODAiIGZpbGw9IiMwRDBEMEQiLz4KCiAgPHJlY3QgeD0iNDAiIHk9IjI1IiB3aWR0aD0iMTEyMCIgaGVpZ2h0PSIyMzAiIHJ4PSI4IiBmaWxsPSIjMTMxMzEzIiBzdHJva2U9IiMyQTJBMkEiIHN0cm9rZS13aWR0aD0iMS41Ii8+CgogIDxyZWN0IHg9IjQwIiB5PSIyNSIgd2lkdGg9IjExMjAiIGhlaWdodD0iMzYiIHJ4PSI4IiBmaWxsPSIjMTgxODE4Ii8+CiAgPHJlY3QgeD0iNDAiIHk9IjQ5IiB3aWR0aD0iMTEyMCIgaGVpZ2h0PSIxMiIgZmlsbD0iIzE4MTgxOCIvPgoKICA8Y2lyY2xlIGN4PSI2NiIgY3k9IjQzIiByPSI2IiBmaWxsPSIjOEIwMDAwIi8+CiAgPGNpcmNsZSBjeD0iODYiIGN5PSI0MyIgcj0iNiIgZmlsbD0iIzNBM0EzQSIvPgogIDxjaXJjbGUgY3g9IjEwNiIgY3k9IjQzIiByPSI2IiBmaWxsPSIjMDBCNEI0Ii8+CgogIDxyZWN0IHg9IjE1MCIgeT0iMjUiIHdpZHRoPSIxNTAiIGhlaWdodD0iMzYiIGZpbGw9IiMxRDFEMUQiLz4KICA8cmVjdCB4PSIxNTAiIHk9IjU5IiB3aWR0aD0iMTUwIiBoZWlnaHQ9IjIiIGZpbGw9IiMwMEI0QjQiLz4KICA8dGV4dCB4PSIyMjUiIHk9IjQ3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ29uc29sYXMsIE1lbmxvLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiNFOEU4RTgiPmdhYnJpZWxhLnRzPC90ZXh0PgoKICA8cmVjdCB4PSI0MCIgeT0iNjEiIHdpZHRoPSI0NiIgaGVpZ2h0PSIxOTQiIGZpbGw9IiMxNTE1MTUiLz4KICA8dGV4dCB4PSI2NiIgeT0iOTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgTWVubG8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzRBNEE0QSI+MTwvdGV4dD4KICA8dGV4dCB4PSI2NiIgeT0iMTI3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ29uc29sYXMsIE1lbmxvLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiM0QTRBNEEiPjI8L3RleHQ+CiAgPHRleHQgeD0iNjYiIHk9IjE1NyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkNvbnNvbGFzLCBNZW5sbywgbW9ub3NwYWNlIiBmb250LXNpemU9IjEzIiBmaWxsPSIjNEE0QTRBIj4zPC90ZXh0PgogIDx0ZXh0IHg9IjY2IiB5PSIxODciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgTWVubG8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzRBNEE0QSI+NDwvdGV4dD4KICA8dGV4dCB4PSI2NiIgeT0iMjE3IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iQ29uc29sYXMsIE1lbmxvLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTMiIGZpbGw9IiM0QTRBNEEiPjU8L3RleHQ+CgogIDx0ZXh0IHg9IjEwNiIgeT0iOTciIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgTWVubG8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZmlsbD0iIzAwQjRCNCI+aW50ZXJmYWNlPC90ZXh0PgogIDx0ZXh0IHg9IjIxMCIgeT0iOTciIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgTWVubG8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZmlsbD0iI0U4RThFOCI+RGV2ZWxvcGVyIHs8L3RleHQ+CgogIDx0ZXh0IHg9IjEyNiIgeT0iMTI3IiBmb250LWZhbWlseT0iQ29uc29sYXMsIE1lbmxvLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM4QjAwMDAiPm5hbWU8L3RleHQ+CiAgPHRleHQgeD0iMTcwIiB5PSIxMjciIGZvbnQtZmFtaWx5PSJDb25zb2xhcywgTWVubG8sIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZmlsbD0iI0U4RThFOCI+OiBzdHJpbmc7PC90ZXh0PgogIDx0ZXh0IHg9IjI5MCIgeT0iMTI3IiBmb250LWZhbWlseT0iQ29uc29sYXMsIE1lbmxvLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM0QTRBNEEiPi8vIEdhYnJpZWxhPC90ZXh0PgoKICA8dGV4dCB4PSIxMjYiIHk9IjE1NyIgZm9udC1mYW1pbHk9IkNvbnNvbGFzLCBNZW5sbywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE2IiBmaWxsPSIjOEIwMDAwIj5mb2N1czwvdGV4dD4KICA8dGV4dCB4PSIxODAiIHk9IjE1NyIgZm9udC1mYW1pbHk9IkNvbnNvbGFzLCBNZW5sbywgbW9ub3NwYWNlIiBmb250LXNpemU9IjE2IiBmaWxsPSIjRThFOEU4Ij46ICJmcm9udC1lbmQiIHwgImJhY2stZW5kIjs8L3RleHQ+CgogIDx0ZXh0IHg9IjEyNiIgeT0iMTg3IiBmb250LWZhbWlseT0iQ29uc29sYXMsIE1lbmxvLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiM4QjAwMDAiPmxlYXJuaW5nPC90ZXh0PgogIDx0ZXh0IHg9IjIxNSIgeT0iMTg3IiBmb250LWZhbWlseT0iQ29uc29sYXMsIE1lbmxvLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiNFOEU4RTgiPjogIkdvIjs8L3RleHQ+CgogIDx0ZXh0IHg9IjEwNiIgeT0iMjE3IiBmb250LWZhbWlseT0iQ29uc29sYXMsIE1lbmxvLCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiNFOEU4RTgiPn08L3RleHQ+CgogIDxyZWN0IHg9IjI3MCIgeT0iMjA1IiB3aWR0aD0iOSIgaGVpZ2h0PSIxOCIgZmlsbD0iIzAwQjRCNCI+CiAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJvcGFjaXR5IiB2YWx1ZXM9IjE7MDsxIiBkdXI9IjFzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvcmVjdD4KPC9zdmc+Cg==" width="100%"/>
 
-**Desenvolvedora Fullstack em Formação**
-
-Estudante do último ano do ensino médio técnico em Desenvolvimento de Sistemas.
-Interessada por tecnologia, com foco no front-end e buscando crescer no back-end.
-Atualmente aprendendo em **Go** por conta própria.
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=00B4B4&center=true&vCenter=true&width=560&lines=Fullstack+Developer+em+Forma%C3%A7%C3%A3o;Foco+em+Front-end+%7C+Evoluindo+no+Back-end;Estudo+independente+em+Go" alt="Typing SVG" />
+</a>
 
 </div>
 
----
+<br>
 
-## 🛠️ Tecnologias & Ferramentas
+## Sobre
+
+Estudante do último ano do ensino médio técnico em Desenvolvimento de Sistemas, com foco em front-end e evolução contínua em back-end. Atualmente em estudo independente da linguagem Go.
+
+<br>
+
+## Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=00B4B4" /><br>
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=00B4B4" /><br>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=8B0000" /><br>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=00B4B4" /><br>
+<img src="https://img.shields.io/badge/Vue.js-0D0D0D?style=flat-square&logo=vuedotjs&logoColor=8B0000" /><br>
+<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=00B4B4" /><br>
+<img src="https://img.shields.io/badge/Bootstrap-0D0D0D?style=flat-square&logo=bootstrap&logoColor=8B0000" />
 
-**Back-end & Banco de Dados**
+</td>
+<td valign="top" width="33%">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Back-end & Dados**
+
+<img src="https://img.shields.io/badge/PHP-0D0D0D?style=flat-square&logo=php&logoColor=00B4B4" /><br>
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=8B0000" /><br>
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=00B4B4" /><br>
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=8B0000" />
+
+</td>
+<td valign="top" width="33%">
 
 **Mobile**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<img src="https://img.shields.io/badge/Flutter-0D0D0D?style=flat-square&logo=flutter&logoColor=00B4B4" /><br>
+<img src="https://img.shields.io/badge/Dart-0D0D0D?style=flat-square&logo=dart&logoColor=8B0000" />
 
-**Estudando por conta própria**
+**Em estudo**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<img src="https://img.shields.io/badge/Go-0D0D0D?style=flat-square&logo=go&logoColor=00B4B4" />
 
----
+</td>
+</tr>
+</table>
 
-## 📌 Projetos em Destaque
+<br>
+
+## Projetos
 
 | Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [🎮 Minecraft Course Store](#) | Site de vendas de cursos — projeto escolar completo com front e back | HTML, CSS, JS |
-| [🖩 Calculadora Tkinter](https://github.com/gabssil43/calculadora/) | Calculadora desktop em desenvolvimento | Python, Tkinter |
-| [🌐 Portfólio Pessoal](#) | Meu portfólio em construção | HTML, CSS |
+|:---|:---|:---|
+| Minecraft Course Store | Site de vendas de cursos — projeto escolar completo, front e back | HTML, CSS, JS |
+| Calculadora Tkinter | Calculadora desktop em desenvolvimento | Python, Tkinter |
+| Portfólio Pessoal | Portfólio em construção | HTML, CSS |
 
-> 🔗 *Os links serão atualizados conforme os repositórios forem publicados!*
+Os links serão atualizados conforme os repositórios forem publicados.
 
----
+<br>
 
-## 📈 Estatísticas
+## Estatísticas
 
 <div align="center">
 
-![Gabriela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabssil43&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabssil43&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabssil43&show_icons=true&hide_title=true&hide_border=true&bg_color=0D0D0D&title_color=00B4B4&icon_color=8B0000&text_color=E8E8E8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabssil43&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00B4B4&text_color=E8E8E8" />
 
 </div>
 
----
+## Em andamento
 
-## Sobre mim
-
--  Sempre aprendendo — dentro e fora da sala de aula
--  Apaixonada por Golang
--  Em busca de evoluir como desenvolvedora fullstack
--  Atualmente trabalhando: calculadora com Tkinter e meu site portfólio
-
----
+- Calculadora com Tkinter
+- Site de portfólio pessoal
+- Estudo independente de Go
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4B4,50:8B0000,100:0D0D0D&height=90&section=footer" width="100%"/>
 
 </div>
