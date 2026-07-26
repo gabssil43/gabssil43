@@ -72,12 +72,6 @@ Os links serão atualizados conforme os repositórios forem publicados.
 
 <br>
 
-## Estatísticas
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gabssil43&show_icons=true&hide_title=true&hide_border=true&bg_color=0D0D0D&title_color=00B4B4&icon_color=8B0000&text_color=E8E8E8" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabssil43&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=00B4B4&text_color=E8E8E8" />
 
 </div>
 
